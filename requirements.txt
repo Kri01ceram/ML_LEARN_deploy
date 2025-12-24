@@ -3,3 +3,5 @@ numpy
 scikit-learn
 flask
 seaborn
+
+-e .
